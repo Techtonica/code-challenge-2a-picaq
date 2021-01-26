@@ -13,7 +13,7 @@
 // [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
 
 function monkeyTrouble(a,b){
-  return // Place your code here.
+  return ( a === b ? true : false )
 }
 
 module.exports = monkeyTrouble;
